@@ -1,0 +1,3 @@
+[submodule "m4_home/m4_ws/src/px4_msgs"]
+	path = m4_home/m4_ws/src/px4_msgs
+	url = https://github.com/PX4/px4_msgs.git

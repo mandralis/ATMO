@@ -1,0 +1,6 @@
+**/rosbag2*
+**/*.json
+**/__pycache__
+**/log
+**/build
+**/install
