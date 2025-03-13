@@ -1,6 +1,6 @@
 # **ATMO**  
 
-[![DOI](https://zenodo.org/badge/DOI/xxxxxx.svg)](https://doi.org/xxxxx) 
+[![DOI](https://zenodo.org/badge/DOI/https://arxiv.org/abs/2503.00609.svg)](https://arxiv.org/abs/2503.00609) 
 
 This repository contains the official implementation of **"ATMO: An Aerially Transforming Morphobot for Dynamic Ground Aerial Transition"**, published in *Nature Communications Engineering* and available at: https://arxiv.org/abs/2503.00609. The code provides the necessary scripts and tools to reproduce the key results and experiments presented in the paper.  
 
