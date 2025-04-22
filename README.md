@@ -22,13 +22,16 @@ For questions or issues, please open an issue on GitHub or contact:
 If you use this code, please cite our paper:  
 
 ```bibtex
-@inproceedings{author2025,
-  title={Your Paper Title},
-  author={Author, Firstname and Coauthor, Firstname},
-  booktitle={Conference or Journal Name},
-  year={2025},
-  volume={XX},
-  number={YY},
-  pages={ZZ-ZZ},
-  publisher={Publisher Name}
+@article{Mandralis2025,
+  title = {ATMO: an aerially transforming morphobot for dynamic ground-aerial transition},
+  volume = {4},
+  ISSN = {2731-3395},
+  url = {http://dx.doi.org/10.1038/s44172-025-00413-6},
+  DOI = {10.1038/s44172-025-00413-6},
+  number = {1},
+  journal = {Communications Engineering},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Mandralis,  Ioannis and Nemovi,  Reza and Ramezani,  Alireza and Murray,  Richard M. and Gharib,  Morteza},
+  year = {2025},
+  month = apr 
 }
