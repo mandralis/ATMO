@@ -4,7 +4,7 @@
 
 This repository contains the official implementation of **"ATMO: An Aerially Transforming Morphobot for Dynamic Ground Aerial Transition"**, published in *Nature Communications Engineering* and available at: https://rdcu.be/eio6G. The code provides the necessary scripts and tools to reproduce the key results and experiments presented in the paper.  
 
-**Click below to watch paper video**
+# 📽️ Watch the Video
 
 [![Watch the video](https://img.youtube.com/vi/0DqccJ0pgbs/maxresdefault.jpg)](https://youtu.be/ka0N_Gcyv5s)
 
