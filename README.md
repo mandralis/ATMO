@@ -6,7 +6,7 @@ This repository contains the official implementation of **"ATMO: An Aerially Tra
 
 ## 📽️ Watch the Video
 
-[![Watch the video](https://img.youtube.com/vi/0DqccJ0pgbs/maxresdefault.jpg)](https://youtu.be/ka0N_Gcyv5s)
+[![Watch the video](https://img.youtube.com/vi/0DqccJ0pgbs/maxresdefault.jpg)](https://www.youtube.com/watch?v=5w7pl7xQGKM)
 
 ## 🛠 **Installation**  
 ### **Requirements**  
